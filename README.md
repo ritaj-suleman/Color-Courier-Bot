@@ -308,7 +308,7 @@ const char* mqtt_topic = "linefollow/colormatch";
 **4. Run the System**
 ```bash
 # Terminal 1: Start Python color detection
-python python_code.py
+python python_codes.py
 
 # The robot will automatically start line following
 # Watch the console for color detection output
